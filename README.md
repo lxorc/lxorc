@@ -38,8 +38,7 @@
 
 ### About me
 
-- [about](http://lxorc.com/about)
-- [twitter](https://twitter.com/lxorc)
+- [about](http://lxorc.github.io/about)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
